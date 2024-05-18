@@ -7,7 +7,7 @@ I'm @DevStudioAl, and welcome to my GitHub profile! I run a dynamic IT agency th
 - 👀 I’m interested in developing innovative digital solutions that help businesses thrive online.
 - 🌱 I’m currently learning advanced machine learning techniques to integrate AI capabilities into our projects.
 - 💞️ I’m looking to collaborate on open-source projects, tech startups, and digital transformation initiatives.
-- 📫 How to reach me: You can contact me via email at devstudioal@example.com or connect with me on [LinkedIn](https://linkedin.com/company/devstudioal).
+- 📫 How to reach me: You can contact me via email at devstudioal@gmail.com or connect with me on [LinkedIn](https://linkedin.com/company/devstudioal).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I love exploring new tech gadgets and playing chess.
 
