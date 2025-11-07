@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Juxhin
 
-### Founder & Lead Developer at [DevStudioAL](https://devstudioal.com)
+### Founder & Lead Developer at [DevStudioAl](https://devstudioal.com)
 Building the future of digital products — from Web2 to Web3.
 
 ---
 
 ## 🚀 What I Do
 
-At **DevStudioAL**, we create, deploy, and scale digital solutions that actually work in the real world.  
+At **DevStudioAl**, we create, deploy, and scale digital solutions that actually work in the real world.  
 I focus on full-stack web development, decentralized tech, and high-performance infrastructure.
 
 - 🧠 **Full-Stack Development:** React, Next.js, Node.js, Express, TypeScript  
