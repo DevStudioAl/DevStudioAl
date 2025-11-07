@@ -7,7 +7,7 @@ Founded by Juxhin
 
 ## 🚀 What We Build
 
-We design, develop, and deploy real, production-grade products — not just demos.  
+We design, develop, and deploy real, production-grade products - not just demos.  
 Our team delivers **scalable web apps, eCommerce solutions, SaaS platforms, and blockchain systems** that perform under pressure.
 
 ### Core Services
